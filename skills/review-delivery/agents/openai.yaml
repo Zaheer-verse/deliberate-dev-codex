@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Delivery"
+  short_description: "Review correctness, security and quality"
+  default_prompt: "Use $review-delivery for my software task."

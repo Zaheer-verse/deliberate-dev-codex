@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test First"
+  short_description: "Write failing tests before implementation"
+  default_prompt: "Use $test-first for my software task."

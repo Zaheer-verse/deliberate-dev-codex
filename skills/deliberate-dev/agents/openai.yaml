@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deliberate Dev"
+  short_description: "Clarify, test, isolate and review software work"
+  default_prompt: "Use $deliberate-dev for my software task."

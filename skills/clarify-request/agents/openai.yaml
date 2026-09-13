@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clarify Request"
+  short_description: "Turn a software idea into clear requirements"
+  default_prompt: "Use $clarify-request for my software task."

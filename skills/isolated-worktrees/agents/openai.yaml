@@ -1,0 +1,4 @@
+interface:
+  display_name: "Isolated Worktrees"
+  short_description: "Give each task its own Git worktree"
+  default_prompt: "Use $isolated-worktrees for my software task."

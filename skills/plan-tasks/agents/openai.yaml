@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Tasks"
+  short_description: "Split requirements into small testable tasks"
+  default_prompt: "Use $plan-tasks for my software task."

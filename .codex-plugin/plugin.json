@@ -1,0 +1,25 @@
+{
+  "name": "deliberate-dev",
+  "version": "0.1.0",
+  "description": "Clarify requests, plan small tasks, write tests first in isolated worktrees, and review before delivery.",
+  "author": {
+    "name": "Zaheer Yousaf"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Deliberate Dev",
+    "shortDescription": "From a clear idea to tested, reviewed software.",
+    "longDescription": "Six skills guide AI agents through discovery, planning, tests before code, isolated Git worktrees, correctness/security/quality reviews, and verified integration. Local Python helpers create worktrees and check evidence.",
+    "developerName": "Zaheer Yousaf",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use $deliberate-dev to clarify my idea and build it with tests and review.",
+      "Use $clarify-request to help me turn an idea into a clear requirement.",
+      "Use $review-delivery to review my completed work and test evidence."
+    ]
+  }
+}
